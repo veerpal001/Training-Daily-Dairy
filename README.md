@@ -36,4 +36,4 @@
 ## :arrow_right: DAY 12 (23/07/2022)
 - Read  the research paper of IDS
 - Read about Snort and Suricata
-- Implement Snort on local machines
+- Implement Short on local machines
