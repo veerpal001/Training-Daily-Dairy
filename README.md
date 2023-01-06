@@ -1,4 +1,4 @@
-# Training-Daily-Dairy
+ # Training-Daily-Dairy
 
 ## :arrow_right: DAY 1 (12/07/2022)
 ### Installation of the linux
