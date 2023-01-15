@@ -96,19 +96,24 @@ Teacher upload on gne1.gndec.ac.in
 
 ## :arrow_right: DAY 25 (11/08/2022)
 
-Raksha Bandhan
-Started uploading users on gne1.gndec.ac.in
+- vRaksha Bandhan
+- Started uploading users on gne1.gndec.ac.in
 ## :arrow_right: DAY 26 (12/08/2022)
 
-uploaded users on gne1.gndec.ac.in
+- uploaded users on gne1.gndec.ac.in
 
 ## :arrow_right: DAY 27 (13/08/2022)
 - Saturday Seminaar
 - upload pending user
 ## :arrow_right: DAY 28 (14/08/2022)
 - Sunday
-## :arrow_right: DAY 29 (06/08/2022)
+## :arrow_right: DAY 29 (15/08/2022)
+- Happy Independence Day [ 75th ]
+- Work From Home
+- Installed moodle sucessfully after resolving the errors and there after i started exploring it.
 
-## :arrow_right: DAY 30 (06/08/2022)
+## :arrow_right: DAY 30 (16/08/2022)
+
+- Started working on the moodle and learn about plugins in moodle.
 
 
