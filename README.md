@@ -116,25 +116,24 @@ Teacher upload on gne1.gndec.ac.in
 
 - Started working on the moodle and learn about plugins in moodle.
 
-## :arrow_right: DAY 30 (17/08/2022)
+## :arrow_right: DAY 31 (17/08/2022)
 
 Got error while installing plugins in moodle and then after some research i resolved error and installed attendance plugin.
 on gne1.gndec.ac.in enrolled editible teacher.
-Add assignment and quiz activity and gave demo in Nankana Sahib School.
 
-## :arrow_right: DAY 30 (20/08/2022)
+## :arrow_right: DAY 32 (20/08/2022)
 - Saturday presetations and Disscussions.
 
-## :arrow_right: DAY 30 (21/08/2022)
+## :arrow_right: DAY 33 (21/08/2022)
 - Sunday
 
-## :arrow_right: DAY 30 (22/08/2022)
+## :arrow_right: DAY 34 (22/08/2022)
 Installed vpl plugin in moodle localhost and explpored the vpl(virtual programming lab).
 Uploaded the updated Teachers data in gne1.gndec.ac.in
-## :arrow_right: DAY 30 (16/08/2022)
+## :arrow_right: DAY 35 (23/08/2022)
 
-## :arrow_right: DAY 30 (16/08/2022)
+## :arrow_right: DAY 36 (24/08/2022)
 
-## :arrow_right: DAY 30 (16/08/2022)
+## :arrow_right: DAY 37 (25/08/2022)
 
 
