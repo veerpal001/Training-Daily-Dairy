@@ -49,11 +49,62 @@
 - Install Frappe  -V 13.23.0
 - Install Erpnext -V 13
 
-## :arrow_right: DAY 16 (23/07/2022)
-## :arrow_right: DAY 17 (23/07/2022)
-## :arrow_right: DAY 18 (23/07/2022)
-## :arrow_right: DAY 19 (23/07/2022)
-## :arrow_right: DAY 20 (23/07/2022)
-## :arrow_right: DAY 21 (23/07/2022)
-## :arrow_right: DAY 22 (23/07/2022)
+## :arrow_right: DAY 16 (30/07/2022)
+Today seminar off because our Infosys SP & DSE Exam
+Prepare for Exam
+## :arrow_right: DAY 17 (01/08/2022)
+- Read and learnt about Education domain.
+### Setup
+- Program
+- Course
+- Instructor
+- Room
+- Student Category
+- Acadmic Term
+- Acadmic year
+- Education Settings
+## :arrow_right: DAY 18 (02/08/2022)
+Implement education domain in test server (gne11.gndec.ac.in)
+
+## :arrow_right: DAY 19 (03/08/2022)
+Create a demo web page
+Now i am exploring the webpage documentation and its features
+
+## :arrow_right: DAY 20 (04/08/2022)
+Create a demo web page
+Now i am exploring the webpage documentation and its features
+
+## :arrow_right: DAY 21 (05/08/2022)
+
+Working on webpage
+use frontend tool of webpag
+
+## :arrow_right: DAY 22 (06/08/2022)
+
+Saturday seminar
+understand the use of make command
+how we can write script of it
+
+## :arrow_right: DAY 23 (07/08/2022)
+
+Sunday
+## :arrow_right: DAY 24 (10/08/2022)
+Tasks given by satinderpal sir
+
+User upload on gne1.gndec.ac.in
+Teacher upload on gne1.gndec.ac.in
+
+## :arrow_right: DAY 25 (11/08/2022)
+
+Raksha Bandhan
+Started uploading users on gne1.gndec.ac.in
+## :arrow_right: DAY 26 (12/08/2022)
+
+## :arrow_right: DAY 27 (06/08/2022)
+
+## :arrow_right: DAY 28 (06/08/2022)
+## :arrow_right: DAY 29 (06/08/2022)
+
+## :arrow_right: DAY 30 (06/08/2022)
+
 
