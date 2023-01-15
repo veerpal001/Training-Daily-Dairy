@@ -37,3 +37,23 @@
 - Read  the research paper of IDS
 - Read about Snort and Suricata
 - Implement Short on local machines
+## :arrow_right: DAY 13 (24/07/2022)
+- Today i was started laptop it was hanging.so i uninstall linux and reinstall linux.
+- During installation it erease all data from window.so i tried 2 and 3 times to install linux.
+## :arrow_right: DAY 14 (25/07/2022)
+- Recreate Library management system and learn the working process.
+## :arrow_right: DAY 15 (29/07/2022)
+- Install Conda and create virtual environment
+- Install Python  -V 3.8.1
+- Install bench   -V 5.8.1
+- Install Frappe  -V 13.23.0
+- Install Erpnext -V 13
+
+## :arrow_right: DAY 16 (23/07/2022)
+## :arrow_right: DAY 17 (23/07/2022)
+## :arrow_right: DAY 18 (23/07/2022)
+## :arrow_right: DAY 19 (23/07/2022)
+## :arrow_right: DAY 20 (23/07/2022)
+## :arrow_right: DAY 21 (23/07/2022)
+## :arrow_right: DAY 22 (23/07/2022)
+
