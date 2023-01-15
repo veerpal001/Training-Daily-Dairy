@@ -100,9 +100,13 @@ Raksha Bandhan
 Started uploading users on gne1.gndec.ac.in
 ## :arrow_right: DAY 26 (12/08/2022)
 
-## :arrow_right: DAY 27 (06/08/2022)
+uploaded users on gne1.gndec.ac.in
 
-## :arrow_right: DAY 28 (06/08/2022)
+## :arrow_right: DAY 27 (13/08/2022)
+- Saturday Seminaar
+- upload pending user
+## :arrow_right: DAY 28 (14/08/2022)
+- Sunday
 ## :arrow_right: DAY 29 (06/08/2022)
 
 ## :arrow_right: DAY 30 (06/08/2022)
