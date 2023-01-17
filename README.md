@@ -128,12 +128,47 @@ on gne1.gndec.ac.in enrolled editible teacher.
 - Sunday
 
 ## :arrow_right: DAY 34 (22/08/2022)
-Installed vpl plugin in moodle localhost and explpored the vpl(virtual programming lab).
-Uploaded the updated Teachers data in gne1.gndec.ac.in
+- Installed vpl plugin in moodle localhost and explpored the vpl(virtual programming lab).
+- Uploaded the updated Teachers data in gne1.gndec.ac.in
 ## :arrow_right: DAY 35 (23/08/2022)
-
+- Today explorig the more features of moodle like attedece ,cards quiz etc.
 ## :arrow_right: DAY 36 (24/08/2022)
-
+- review of all the thigs which leart the use of moodle
 ## :arrow_right: DAY 37 (25/08/2022)
+- Started a new work to leart about the booststrap deeeply how to use and uits features.
+## :arrow_right: DAY 37 (27/08/2022)
+- Saturday presentation Deeepak gives a presentation om metor metee project and and discuss their queries.
+## :arrow_right: DAY 37 (28/08/2022)
+-Sunday
+## :arrow_right: DAY 37 (29/08/2022)
+today i visit this link https://getbootstrap.com/docs/5.3/getting-started/introduction/ read it any tried to learnet from it.  
+## :arrow_right: DAY 37 (30/08/2022)
+https://www.w3schools.com/bootstrap/bootstrap_get_started.asp
+## :arrow_right: DAY 37 (31/08/2022)
+https://www.w3schools.com/bootstrap/bootstrap_grid_basic.asp
+## :arrow_right: DAY 37 (31/08/2022)
+https://www.w3schools.com/bootstrap/bootstrap_typography.asp
+## :arrow_right: DAY 37 (01/09/2022)
+https://www.w3schools.com/bootstrap/bootstrap_tables.asp
+## :arrow_right: DAY 37 (02/09/2022)
+https://www.w3schools.com/bootstrap/bootstrap_images.asp
+## :arrow_right: DAY 37 (03/09/2022)
+Satuday presetation
+## :arrow_right: DAY 37 (04/09/2022)
+Sunday
+## :arrow_right: DAY 37 (05/09/2022)
+https://www.w3schools.com/bootstrap/bootstrap_jumbotron_header.asp
+## :arrow_right: DAY 37 (06/09/2022)
+https://www.w3schools.com/bootstrap/bootstrap_wells.asp
+## :arrow_right: DAY 37 (07/09/2022)
+https://www.w3schools.com/bootstrap/bootstrap_alerts.asp
+## :arrow_right: DAY 37 (08/09/2022)
+https://www.w3schools.com/bootstrap/bootstrap_alerts.asp
+## :arrow_right: DAY 37 (09/09/2022)
+https://www.w3schools.com/bootstrap/bootstrap_button_groups.asp
+## :arrow_right: DAY 37 (10/09/2022)
+Saturday presentation
+## :arrow_right: DAY 37 (11/09/2022)
+Sunday
 
 
